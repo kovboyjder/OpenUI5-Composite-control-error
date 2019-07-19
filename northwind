@@ -1,0 +1,11 @@
+#
+#Fri Jul 19 00:28:51 UTC 2019
+Description=Northwind OData Service
+Type=HTTP
+Authentication=NoAuthentication
+WebIDEUsage=odata_gen
+Name=northwind
+WebIDEEnabled=true
+ProxyType=Internet
+URL=https\://services.odata.org
+WebIDESystem=Northwind
